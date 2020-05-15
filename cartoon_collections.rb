@@ -15,4 +15,4 @@ def list_dwarves(array)
     puts "#{index + 1}. #{array}"
   end
 end
-list_dwarves(array)
+list_dwarves(dwarves_array)
